@@ -52,7 +52,7 @@ public class Unit1 {
   */
  public static int maxValueMinusOne() {
      // Your code here
-     return Integer.MAX_VALUE; // Placeholder return
+     return Integer.MAX_VALUE - 1; // Placeholder return
  }
 
  /**
